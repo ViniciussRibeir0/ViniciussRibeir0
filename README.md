@@ -1,7 +1,8 @@
 <h1>Vinicius Ribeiro</h1>
-Olá! Tenho 16 anos, atualmente estou estudando na escola Etec Albert Einstein(3° ano) e
+<h3>Olá!<h3> 
+Tenho 16 anos, Moro em São Paulo, atualmente estou estou cursando o 3° ano do Ensino médio integrado ao técnico de Desenvolvimento de Sistemas na Etec Albert Einstein. Sou iniciante no mundo da programação... e com muitos erros e acertos eu vou aprendendo!
 
-<strong> Estou aprendendo: </strong>
+<strong> Tenho conhecimento de: </strong>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
