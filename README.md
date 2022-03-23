@@ -1,6 +1,6 @@
 <h1>Vinicius Ribeiro</h1>
 <h3>Olá!<h3> 
-Tenho 16 anos, Moro em São Paulo, atualmente estou estou cursando o 3° ano do Ensino médio integrado ao técnico de Desenvolvimento de Sistemas na Etec Albert Einstein. Sou iniciante no mundo da programação... e com muitos erros e acertos eu vou aprendendo!
+<p>Tenho 16 anos, Moro em São Paulo, atualmente estou estou cursando o 3° ano do Ensino médio integrado ao técnico de Desenvolvimento de Sistemas na Etec Albert Einstein. Sou iniciante no mundo da programação... e com muitos erros e acertos eu vou aprendendo!</p>
 
 <strong> Tenho conhecimento de: </strong>
 
