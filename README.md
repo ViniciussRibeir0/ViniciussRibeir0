@@ -1,8 +1,8 @@
 Ola!
 Me chamo Vinicius Ribeiro
-Atualmente estou estudando na escola Etec Albert Einstein(3° ano)
+Atualmente estou estudando na escola Etec Albert Einstein(3° ano) e
 
-Estou aprendendo:
+<strong> Estou aprendendo: </strong>
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
