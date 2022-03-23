@@ -1,5 +1,5 @@
 <h1>Vinicius Ribeiro</h1>
-Atualmente estou estudando na escola Etec Albert Einstein(3° ano) e
+Olá! Tenho 16 anos, atualmente estou estudando na escola Etec Albert Einstein(3° ano) e
 
 <strong> Estou aprendendo: </strong>
 
