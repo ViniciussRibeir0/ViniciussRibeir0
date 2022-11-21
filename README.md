@@ -1,6 +1,6 @@
 <h1>Vinicius Ribeiro</h1>
 <h3>Hello!</h3> 
-I'm 16 years old, I live in São Paulo, I'm currently attending the 3rd year of high school integrated with the Systems Development technician at Etec Albert Einstein. I'm a beginner in the world of programming and with many mistakes and successes I'm learning!
+I'm 17 years old, live in São Paulo, and I'm currently attending the 3rd year of high school integrated with the Systems Development technician at Etec Albert Einstein. I'm a beginner in the world of programming and with many mistakes and successes, I'm learning!
 
 
 <strong> I have knowledge: </strong>
