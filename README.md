@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1>Vinicius Ribeiro</h1>
 <h3>Hello!</h3> 
 I'm 17 years old, live in São Paulo, and I'm currently attending the 3rd year of high school integrated with the Systems Development technician at Etec Albert Einstein. I'm a beginner in the world of programming and with many mistakes and successes, I'm learning!
