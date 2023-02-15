@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Soares+Ribeiro;I'm+17+years+old;I+from+Brasil,+SP;I+study+software+engineering+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Vinicius+Soares+Ribeiro;I'm+17+years+old;I+from+Brasil,+SP;I+study+software+engineering+at+Fiap;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 I'm 17 years old, live in São Paulo, and I'm currently attending the 3rd year of high school integrated with the Systems Development technician at Etec Albert Einstein. I'm a beginner in the world of programming and with many mistakes and successes, I'm learning!
 
