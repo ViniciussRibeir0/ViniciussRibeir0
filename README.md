@@ -29,6 +29,8 @@
 
 
 ![Snake animation](https://github.com/ViniciussRibeir0/ViniciussRibeir0/blob/output/github-contribution-grid-snake.svg)
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ViniciussRibeir0&theme=gotham&hide_border=true&area=true)
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
