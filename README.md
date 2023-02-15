@@ -9,9 +9,9 @@
   
   ### Main skills:
   
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp; 
 
 ### Tools:
   
@@ -30,8 +30,6 @@
 
 
 ![Snake animation](https://github.com/ViniciussRibeir0/ViniciussRibeir0/blob/output/github-contribution-grid-snake.svg)
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ViniciussRibeir0&theme=gotham&hide_border=true&area=true)
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
