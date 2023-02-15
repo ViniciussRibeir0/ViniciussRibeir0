@@ -9,7 +9,7 @@
   
   ### Main skills:
   
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logo)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>)&nbsp;
 
