@@ -31,7 +31,7 @@
 
 ![Snake animation](https://github.com/ViniciussRibeir0/ViniciussRibeir0/blob/output/github-contribution-grid-snake.svg)
   
-  <div align="center">
+  <div align="center"> 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ViniciussRibeir0}/count.svg" /></p> 
 <br></div>
